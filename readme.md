@@ -6,7 +6,7 @@ Just a simple example to show that
 ```javascript
 $( '.CLASSNAME' ).on( 'click' , function(){
   /// code goes here
-}); // end testerButton on click
+});
 ```
 
 Only gets triggers for buttons with CLASSNAME that were on page at load.

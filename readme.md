@@ -1,7 +1,7 @@
 JQuery body click for appended buttons example
 ==============================================
 
-Just a simple example to shoe that
+Just a simple example to show that
 
 ```javascript
 $( '.CLASSNAME' ).on( 'click' , function(){
